@@ -101,6 +101,6 @@ Cyber Security Intern
 
 Prodigy InfoTech
 
-GitHub: Add your GitHub profile link here
+GitHub: https://github.com/kanishkaaSri30
 
-LinkedIn: Add your LinkedIn profile link here
+LinkedIn: www.linkedin.com/in/kanishkaa-sri-p-r-30700a413
